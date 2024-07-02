@@ -4,7 +4,7 @@
 "name": "your exploring unit receives training", 
 "notification": "An ancient tribe trained us in their ways of combat!", 
 "weight": 4
-"uniques": ["This Unit gains [30] XP", "Only available after [10] turns"] 
+"uniques": ["This Unit gains [30] XP", "Only available <after 2 turns>"] 
 }, 
 { 
 "name": "survivors (adds population to a city)", 
@@ -31,7 +31,7 @@
 "name": "advanced weaponry for your explorer", 
 "notification": "Our unit finds advanced weaponry hidden in the ruins!", 
 "weight": 4
-"uniques": ["This Unit upgrades for free including special upgrades", "This Unit gains [10] XP"] 
+"uniques": ["This Unit upgrades for free including special upgrades", "This Unit gains [30] XP"] 
 }, 
 { 
 "name": "reveal nearby Barbarian camps", 
