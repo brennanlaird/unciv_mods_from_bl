@@ -22,7 +22,7 @@
 	"production": 200,
         "cost": 10,
         "science": 1000,
-        "uniques": ["Free Technology","Free Technology","Free Technology","Free Technology","Free Technology","Free Technology","Free Technology","Free Technology","Free Technology",
+        "uniques": ["Free Technology","Free Technology","Free Technology","Free Technology","Free Technology","Free Technology","Free Technology","Free Technology","Free Technology","Free Technology","Free Technology","Free Technology","Free Technology","Free Technology","Free Technology","Free Technology","Free Technology","Free Technology",
             "Free Technology"],
         "quote": "'The most versatile substance on the planet, and they used it to build a Frisbee.' - Ultron"
     },
