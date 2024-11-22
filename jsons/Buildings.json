@@ -14,7 +14,7 @@
             "Will not be displayed in Civilopedia"],
         "quote": "'The most versatile substance on the planet, and they used it to build a Frisbee.' - Ultron"
     },
-	      {
+      {
         "name": "Air Force Academy",
         "requiredTech": "Military Science",
         "isWonder": "true",
@@ -28,7 +28,7 @@
             "Will not be displayed in Civilopedia"],
         "quote": "'The most versatile substance on the planet, and they used it to build a Frisbee.' - Ultron"
     },
-	      {
+      {
         "name": "Monolith",
         "requiredTech": "Mining",
         "isWonder": "true",
