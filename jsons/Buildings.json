@@ -15,6 +15,20 @@
         "quote": "'The most versatile substance on the planet, and they used it to build a Frisbee.' - Ultron"
     },
 	      {
+        "name": "Air Force Academy",
+        "requiredTech": "Military Science",
+        "isWonder": "true",
+        "cost": 125,
+        "science": 1,
+        "uniques": ["[+25]% Strength for cities <when defending>",
+            "[+100]% Strength <for [All] units>",
+            "New [Air] units start with [300] Experience [in this city]",
+            "[+50] Movement <for [{Military} {Air}] units>",
+			      "[+5] Sight <for [{Military} {Air}] units>"
+            "Will not be displayed in Civilopedia"],
+        "quote": "'The most versatile substance on the planet, and they used it to build a Frisbee.' - Ultron"
+    },
+	      {
         "name": "Monolith",
         "requiredTech": "Mining",
         "isWonder": "true",
