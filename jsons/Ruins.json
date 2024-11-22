@@ -3,7 +3,7 @@
 "name": "your exploring unit receives training", 
 "notification": "An ancient tribe trained us in their ways of combat!", 
 "weight": 4
-"uniques": ["This Unit gains [100] XP", "Only available <after turn number [2]>"] 
+"unique": ["[This Unit] gains [100] XP", "Only available <after turn number [2]>"] 
 }, 
 { 
 "name": "survivors (adds population to a city)", 
@@ -30,7 +30,7 @@
 "name": "advanced weaponry for your explorer", 
 "notification": "Our unit finds advanced weaponry hidden in the ruins!", 
 "weight": 4
-"uniques": ["This Unit upgrades for free including special upgrades", "This Unit gains [30] XP"] 
+"unique": ["[This Unit] upgrades for free including special upgrades", "[This Unit] gains [30] XP"] 
 }, 
 
 //Deletions
