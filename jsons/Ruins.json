@@ -1,3 +1,8 @@
+{
+  "name": "Ancient Ruins Overhaul",
+  "ruinedSite": {
+    "replaceThis": true,
+    "values":
 [
   {
     "name": "your exploring unit receives training",
