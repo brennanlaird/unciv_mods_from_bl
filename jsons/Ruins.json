@@ -2,20 +2,11 @@
 { 
 "name": "your exploring unit receives training", 
 "notification": "An ancient tribe trained us in their ways of combat!", 
-"weight": 4
 "unique": ["[This Unit] gains [100] XP", "Only available <after turn number [2]>"] 
-}, 
-{ 
-"name": "survivors (adds population to a city)", 
-"notification": "We have found survivors in the ruins! Population added to [cityName].", 
-"weight": 0
-"uniques": ["[+3] population in a random city"], // This can't be easily added to cityFilter, as it is non-deterministic		
-"color": "#81c784" 
 }, 
 { 
 "name": "a stash of gold", 
 "notification": "We have found a stash of [goldAmount] Gold in the ruins!", 
-"weight": 1
 "uniques": ["Gain [15000]-[50000] [Gold]"], 
 "color": "#ffeb7f" 
 }, 
@@ -29,8 +20,7 @@
 { 
 "name": "advanced weaponry for your explorer", 
 "notification": "Our unit finds advanced weaponry hidden in the ruins!", 
-"weight": 4
-"unique": ["[This Unit] upgrades for free including special upgrades", "[This Unit] gains [30] XP"] 
+"uniques": ["[This Unit] upgrades for free including special upgrades"]
 }, 
 
 //Deletions
