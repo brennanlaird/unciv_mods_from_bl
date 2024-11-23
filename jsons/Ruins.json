@@ -1,8 +1,3 @@
-{
-  "name": "Ancient Ruins Overhaul",
-  "ruinedSite": {
-    "replaceThis": true,
-    "values":
 [
   {
     "name": "your exploring unit receives training",
@@ -28,4 +23,3 @@
     "uniques": ["[This Unit] upgrades for free including special upgrades"]
   }
 ]
-  }}
