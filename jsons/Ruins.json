@@ -2,11 +2,13 @@
   {
     "name": "your exploring unit receives training",
     "notification": "An ancient tribe trained us in their ways of combat!",
+    "weight": 4,
     "uniques": ["[This Unit] gains [100] XP", "Only available <after turn number [2]>"]
   },
   {
     "name": "a stash of gold",
     "notification": "We have found a stash of [goldAmount] Gold in the ruins!",
+        "weight": 3,
     "uniques": ["Gain [15000]-[50000] [Gold]"],
     "color": "#ffeb7f"
   },
@@ -20,6 +22,7 @@
   {
     "name": "advanced weaponry for your explorer",
     "notification": "Our unit finds advanced weaponry hidden in the ruins!",
+        "weight": 6,
     "uniques": ["[This Unit] upgrades for free including special upgrades"]
   }
 ]
