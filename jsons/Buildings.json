@@ -8,7 +8,7 @@
         "science": 1,
         "uniques": ["[+25]% Strength for cities <when defending>",
             "[+100]% Strength <for [All] units>",
-            "New [Water] units start with [300] Experience [in this city]",
+            "New [Water] units start with [300] XP [in this city]",
             "[+5] Movement <for [{Military} {Water}] units>",
 			      "[+5] Sight <for [{Military} {Water}] units>"
             "Will not be displayed in Civilopedia"],
@@ -22,7 +22,7 @@
         "science": 1,
         "uniques": ["[+25]% Strength for cities <when defending>",
             "[+100]% Strength <for [All] units>",
-            "New [Air] units start with [300] Experience [in this city]",
+            "New [Air] units start with [300] XP [in this city]",
             "[+50] Movement <for [{Military} {Air}] units>",
 			      "[+5] Sight <for [{Military} {Air}] units>"
             "Will not be displayed in Civilopedia"],
