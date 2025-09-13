@@ -1,4 +1,5 @@
-	{
+[
+{
 		"name": "Stealth Bomber",
 		"unitType": "Bomber",
 		"movement": 2,
@@ -47,3 +48,4 @@
 		"uniques": ["Damage taken from interception reduced by [100]%", "[+50] Sight", "Can see over obstacles"],
 		"attackSound": "bombing"
 	}
+]
