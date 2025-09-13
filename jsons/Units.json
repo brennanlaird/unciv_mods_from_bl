@@ -23,7 +23,7 @@
 		"uniques": ["Cannot attack", "Can carry [2] [Aircraft] units"]
 	},
 
-{
+    {
 		"name": "Super Carrier",
 		"unitType": "Aircraft Carrier",
     "uniqueTo": "America",
@@ -46,4 +46,4 @@
 		"requiredResource": "Aluminum",
 		"uniques": ["Damage taken from interception reduced by [100]%", "[+50] Sight", "Can see over obstacles"],
 		"attackSound": "bombing"
-	},
+	}
