@@ -8,7 +8,7 @@
 		"cost": 425,
 		"requiredTech": "Stealth",
 		"requiredResource": "Aluminum",
-    "upgradesTo": "B2 Spirit",
+        "upgradesTo": "B2 Spirit",
 		"uniques": ["Damage taken from interception reduced by [100]%", "Cannot be carried by [Carrier] units", "[+4] Sight", "Can see over obstacles"],
 		"attackSound": "bombing"
 	},
@@ -19,14 +19,14 @@
 		"strength": 40,
 		"cost": 375,
 		"requiredTech": "Electronics",
-    "upgradesTo": "Super Carrier",
+        "upgradesTo": "Super Carrier",
 		"uniques": ["Cannot attack", "Can carry [2] [Aircraft] units"]
 	},
 
     {
 		"name": "Super Carrier",
 		"unitType": "Aircraft Carrier",
-    "uniqueTo": "America",
+        "uniqueTo": "America",
 		"movement": 10,
 		"strength": 80,
 		"cost": 750,
@@ -36,7 +36,7 @@
 	{
 		"name": "B2 Spirit",
 		"unitType": "Bomber",
-    "uniqueTo": "America",
+        "uniqueTo": "America",
 		"movement": 20,
 		"strength": 185,
 		"rangedStrength": 185,
