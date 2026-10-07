@@ -3,7 +3,7 @@
     "name": "your exploring unit receives training",
     "notification": "An ancient tribe trained us in their ways of combat!",
     "weight": 4,
-    "uniques": ["[This Unit] gains [100] XP", "Only available <after turn number [2]>"]
+    "uniques": ["[This Unit] gains [500] XP", "Only available <after turn number [2]>"]
   },
   {
     "name": "a stash of gold",
@@ -15,7 +15,7 @@
   {
     "name": "discover a lost tech",
     "notification": "We have discovered a lost tech in the ruins!",
-    "weight": 4,
+    "weight": 6,
     "uniques": ["Free Technology"],
     "color": "#7f7fff"
   },
