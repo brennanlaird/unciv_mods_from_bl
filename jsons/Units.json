@@ -41,7 +41,7 @@
 		"movement": 20,
 		"strength": 185,
 		"rangedStrength": 185,
-		"range": 100,
+		"range": 500,
 		"cost": 425,
 		"requiredTech": "Stealth",
 		"requiredResource": "Aluminum",
