@@ -7,7 +7,7 @@
 		"rangedStrength": 85,
 		"range": 20,
 		"cost": 425,
-		"requiredTech": "Stealth",
+		"requiredTech": "Flight",
 		"requiredResource": "Aluminum",
         "upgradesTo": "B2 Spirit",
 		"uniques": ["Damage taken from interception reduced by [100]%", "Cannot be carried by [Carrier] units", "[+4] Sight", "Can see over obstacles"],
@@ -43,7 +43,7 @@
 		"rangedStrength": 185,
 		"range": 500,
 		"cost": 425,
-		"requiredTech": "Stealth",
+		"requiredTech": "Flight",
 		"requiredResource": "Aluminum",
 		"uniques": ["Damage taken from interception reduced by [100]%", "[+50] Sight", "Can see over obstacles"],
 		"attackSound": "bombing"
