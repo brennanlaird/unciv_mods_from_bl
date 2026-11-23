@@ -47,5 +47,17 @@
 		"requiredResource": "Aluminum",
 		"uniques": ["Damage taken from interception reduced by [100]%", "[+50] Sight", "Can see over obstacles"],
 		"attackSound": "bombing"
+	},
+		{
+		"name": "Mountain Man",
+		"unitType": "Scout",
+        "uniqueTo": "America",
+		"movement": 10,
+		"strength": 20,
+		"requiredTech": "Agriculture",
+		"obsoleteTech": "Scientific Theory",
+		"uniques": ["May upgrade to [Helicopter Gunship] through ruins-like effects", "Never appears as a Barbarian unit"],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "nonmetalhit"
 	}
 ]
